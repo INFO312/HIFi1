@@ -124,4 +124,25 @@ h2 {
   flex-grow: 1; }
 
 #ongoing-applications {
-  flex-grow: 2; }
+  flex-grow: 4; }
+
+/* /home/myDetails.html */
+.details-value {
+  border: 1px grey solid;
+  background: #e0e0e0;
+  padding: 2px;
+  font-size: 16px; }
+
+#my-details ul {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+#my-details li {
+  padding: 10px; }
+
+.details-summary {
+  color: #999;
+  cursor: pointer; }
+
+#address {
+  display: none; }
