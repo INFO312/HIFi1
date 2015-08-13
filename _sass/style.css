@@ -18,6 +18,11 @@ h2 {
   margin: 0 auto;
   width: 90%; }
 
+.coat-of-arms {
+  width: 80px;
+  display: block;
+  margin: auto; }
+
 /* index.html */
 #login-blurb {
   text-align: center; }
@@ -83,10 +88,6 @@ h2 {
   float: left;
   text-align: center;
   background: #609efa; }
-  #sidebar #sidebar-logo img {
-    width: 80px;
-    display: block;
-    margin: auto; }
   #sidebar ul {
     list-style: none;
     margin: 0;
